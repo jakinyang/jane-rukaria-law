@@ -13,12 +13,12 @@ const About: React.FC = () => {
           </div>
           <div className='neobrutalist-title'>
             <p className="mb-2">
-              Aesthetic umami yuccie 90's kinfolk. Microdosing chartreuse try-hard, mumblecore lumbersexual occupy post-ironic celiac DIY YOLO. Pitchfork raw denim flexitarian mlkshk church-key. Stumptown big mood copper mug ascot praxis. Vegan shoreditch 8-bit letterpress mixtape stumptown jean shorts helvetica mumblecore dreamcatcher. Disrupt cardigan tousled irony knausgaard.
+              Aesthetic umami yuccie 90s kinfolk. Microdosing chartreuse try-hard, mumblecore lumbersexual occupy post-ironic celiac DIY YOLO. Pitchfork raw denim flexitarian mlkshk church-key. Stumptown big mood copper mug ascot praxis. Vegan shoreditch 8-bit letterpress mixtape stumptown jean shorts helvetica mumblecore dreamcatcher. Disrupt cardigan tousled irony knausgaard.
             </p>
           </div>
           <div className='neobrutalist-title'>
             <p>
-              I'm baby church-key schlitz paleo slow-carb shoreditch, pabst crucifix fixie solarpunk fam. Bruh brunch tofu raw denim scenester keffiyeh kitsch gentrify shoreditch before they sold out bicycle rights knausgaard pug shabby chic venmo. Yes plz brunch drinking vinegar crucifix butcher pinterest subway tile slow-carb. Franzen bespoke beard master cleanse, artisan glossier vinyl cloud bread 8-bit tacos pop-up. Vape shabby chic disrupt, migas master cleanse gluten-free neutral milk hotel chambray literally ramps mustache pabst freegan.
+              Im baby church-key schlitz paleo slow-carb shoreditch, pabst crucifix fixie solarpunk fam. Bruh brunch tofu raw denim scenester keffiyeh kitsch gentrify shoreditch before they sold out bicycle rights knausgaard pug shabby chic venmo. Yes plz brunch drinking vinegar crucifix butcher pinterest subway tile slow-carb. Franzen bespoke beard master cleanse, artisan glossier vinyl cloud bread 8-bit tacos pop-up. Vape shabby chic disrupt, migas master cleanse gluten-free neutral milk hotel chambray literally ramps mustache pabst freegan.
             </p>
           </div>
         </div>
