@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "@types/react-modal": "^3.16.0",
-    "@types/react-scroll": "^1.8.6"
+    "@types/react-scroll": "^1.8.6",
+    "@types/react-slick": "^0.23.10"
   }
 }
