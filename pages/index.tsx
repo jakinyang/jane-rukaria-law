@@ -15,7 +15,7 @@ const JaneRukariaLaw: React.FC = () => {
       <About />
       <Services />
       <Resources />
-      {/* <Testimonials /> */}
+      <Testimonials />
       <ContactForm />
     </div>
   );
